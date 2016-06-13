@@ -7,8 +7,7 @@ if (args.indexOf('-a') !== -1 || args.indexOf('--all') !== -1) {
   lenny.faces.forEach(function (face) {
     process.stdout.write(face + '\n')
   })
-
   return
 }
 
-process.stdout.write(lenny() + '\n')
+process.stdout.write(lenny())
