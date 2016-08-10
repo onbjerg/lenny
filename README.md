@@ -19,4 +19,13 @@ console.log(lenny())
 
 console.log(lenny())
 // ( ͡o ͜ʖ ͡o)
+
+lenny.eyes
+// => [ [ ..., ... ], ...]
+
+lenny.ears
+// => [ [ ..., ... ], ...]
+
+lenny.mouths
+// => [ [ ..., ... ], ...]
 ```
