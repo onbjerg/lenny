@@ -1,4 +1,4 @@
-# lenny
+# lenny [![Build Status](https://travis-ci.org/onbjerg/lenny.svg?branch=master)](https://travis-ci.org/onbjerg/lenny)
 
 generates a random lenny face for your project
 
