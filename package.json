@@ -4,7 +4,7 @@
   "description": "raise your dongers { ͡• ͜ʖ ͡•}",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js && standard"
   },
   "bin": {
     "lenny": "./cli.js"
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/onbjerg/lenny/issues"
   },
-  "homepage": "https://github.com/onbjerg/lenny#readme"
+  "homepage": "https://github.com/onbjerg/lenny#readme",
+  "devDependencies": {
+    "standard": "^7.1.2"
+  }
 }
